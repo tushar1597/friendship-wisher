@@ -1,0 +1,9 @@
+<svg id="curve" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 173.19"><defs>
+  <filter id="f1" x="0" y="0" width="200%" height="200%">
+<feOffset result="offOut" in="SourceGraphic" dx="5" dy="5" />
+<feGaussianBlur result="blurOut" in="offOut" stdDeviation="10" />
+<feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+</filter>
+  <style>.cls-1{fill:gray;stroke:#000;stroke-miterlimit:10;}.cls-2{fill:#f6f6f6;}</style>
+</defs><title>w1</title><path class="cls-1" d="M534.5,85.5" transform="translate(0.5 0.5)"/>
+<path class="cls-2" filter="url(#f1)" d="M-.5-.5v40s234,181,513,121,370-130,458-106,384,116,429,45V-.5Z" transform="translate(0.5 0.5)"/></svg>
